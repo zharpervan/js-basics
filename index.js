@@ -8,19 +8,28 @@ console.log(greeting + nameTwo);
 console.log(greeting + nameThree);
 console.log(greeting + nameFour); */
 
+/*
 const variableOne = 5;
 const variableTwo = 8;
 const variableThree = variableOne + variableTwo;
 const variableFour = variableThree / 4;
 console.log(variableThree); 
-console.log(variableFour);
+console.log(variableFour); */
 
+const numberSetOne = 4 + 10 + 22 + -30 + 50;
+const numberSetTwo = 68 + 7 + -22 + 9 + 100;
+console.log(numberSetOne/5);
+console.log(numberSetTwo/5);
+
+/*
 const numberSetOne = 1 + 2 + 3 + 4 + 5;
 const numberSetTwo = 6 + 7 + 8 + 9 + 10;
 const averageOne = numberSetOne/5;
 const averageTwo = numberSetTwo/5;
 console.log(averageOne);
-console.log(averageTwo);
+console.log(averageTwo); */
+
+
 
 
 //const stringAndNumString = "Hello + 2+ 2+ 2+ 2+ 2+ 2+ 2+ 2+ 2" + '+';
