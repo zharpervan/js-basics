@@ -77,7 +77,7 @@ if(studentGrade >= 90) {
 } else if(studentGrade <= 55) {
     console.log('Student Grade F');
 }
-*/    
+    
 
 let timeOfDay = 0500
 if(timeOfDay >= 0500 && timeOfDay <= 1159) {
@@ -86,4 +86,23 @@ if(timeOfDay >= 0500 && timeOfDay <= 1159) {
     console.log('Good Afternoon');
 } else {
     console.log('Hey There');
+}
+for statement 1; statement 2; statement 3) {
+    code block to be executed
+}
+statement 1 is exceuted before the loop (code block) starts
+
+
+let poundSign = "";
+for(let i = 0; i < 8; i++) {
+    poundSign += "#";
+    console.log(poundSign);
+}
+
+for(let i = 10; i > 0; i--) {
+    console.log(i);
+}
+*/
+for(let i = 6;  i <= 60; i += 3) {
+    console.log(i);
 }
